@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp_v1.1.4.rbz",
-  "changelog": "¡Gran actualización a HabiApp v1.1.4!\n\n• Se corrigió y renovó por completo el motor de actualizaciones automáticas.\n• Nuevo modal de actualización interactivo por proyecto y gestor en Configuración.\n• Mejoras de estabilidad y rendimiento en el motor paramétrico.\n\n⚠️ AVISO PARA VERSIONES PREVIAS: Si la descarga automática no inicia en tu versión actual, por favor descarga el archivo .rbz o el instalador desde la página oficial: https://www.habitara.design/habiapp e instálalo en SketchUp. A partir de esta versión, todas las próximas actualizaciones se aplicarán con un solo clic."
+  "version": "1.2.0",
+  "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp_v1.2.0.rbz",
+  "changelog": "¡Novedades en HabiApp v1.2.0!\n\n• Nueva Herramienta Interactuar 3D: Simula la apertura y cierre interactivo de cajones, puertas abatibles y elevables en tiempo real con física fluida.\n• Corrección en Herramienta de Huecos: Detección y dimensionado de vacíos optimizado para una inserción precisa y sin errores.\n• Soporte de Grupos en Módulos Inteligentes: Estructuración y manipulación avanzada de nodos y piezas agrupadas dentro de componentes paramétricos.\n• Exportación de Listado Optimizada: Mayor estabilidad y personalización en el despiece de partes y reportes de producción.\n• Estabilidad y Rendimiento: Preservación de fórmulas dinámicas en submódulos anidados y cálculo acelerado del modelo."
 }
