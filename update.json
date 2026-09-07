@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp_v1.2.0.rbz",
-  "changelog": "¡Novedades en HabiApp v1.2.0!\n\n• Nueva Herramienta Interactuar 3D: Simula la apertura y cierre interactivo de cajones, puertas abatibles y elevables en tiempo real con física fluida.\n• Corrección en Herramienta de Huecos: Detección y dimensionado de vacíos optimizado para una inserción precisa y sin errores.\n• Soporte de Grupos en Módulos Inteligentes: Estructuración y manipulación avanzada de nodos y piezas agrupadas dentro de componentes paramétricos.\n• Exportación de Listado Optimizada: Mayor estabilidad y personalización en el despiece de partes y reportes de producción.\n• Estabilidad y Rendimiento: Preservación de fórmulas dinámicas en submódulos anidados y cálculo acelerado del modelo."
+  "version": "1.2.2",
+  "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp_v1.2.2.rbz",
+  "changelog": "¡Novedades en HabiApp v1.2.2!\n\n• Motor de Grupos y Submódulos: Corrección de autoreferencias circulares, duplicación recursiva y jerarquía acumulativa multinivel.\n• Calibración Visual y Zoom: Detección precisa de escala en menu principal y normalización de trazado en Moodboard.\n• Nuevos Punteros Vectoriales: Cursores SVG de alta precisión para Canteado, Interactuar 3D y Pipeta de materiales.\n• Persistencia de Inventario: Protección con guardrails de integridad y copias de seguridad automáticas ante modificaciones locales.\n• Blindaje de Integridad 3D: Protección preventiva contra sobreescritura o pérdida de geometrías en SketchUp."
 }
