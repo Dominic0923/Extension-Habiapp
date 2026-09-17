@@ -1,5 +1,5 @@
 {
   "version": "1.2.3",
-  "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp_v1.2.3.rbz",
+  "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp.rbz",
   "changelog": "Novedades en HabiApp v1.2.3\n\n• Detección de Huecos: Corrección en el cálculo volumétrico y estabilización en la inserción de piezas y módulos.\n• Motor Matemático: Nuevas funciones paramétricas (MAX, MIN, CLAMP, ABS, CEIL, FLOOR, ROUND, SQRT, POW).\n• Optimización e Inventario Multilingüe: Soporte completo en español e inglés para corte, inventario y reportes.\n• Módulos Inteligentes: Resolución canónica de entradas/salidas, inmutabilidad y prevención de ciclos.\n• Panel Inteligente: Control granular de atributos y personalización independiente por pieza.\n• Interactuar 3D: Cinemática y transformaciones de apertura y cierre con mayor precisión."
 }
