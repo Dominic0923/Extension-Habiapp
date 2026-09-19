@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp.rbz",
-  "changelog": "Novedades en HabiApp v1.2.4\n\n• Herramienta Interactuar: Mejora en la lógica de interacción y nuevo sistema de doble apertura.\n• Motor Matemático: Nuevas funciones paramétricas (MAX, MIN, CLAMP, ABS, CEIL, FLOOR, ROUND, SQRT, POW).\n• Optimización e Inventario Multilingüe: Soporte completo en español e inglés para corte, inventario y reportes.\n• Módulos Inteligentes: Resolución canónica de entradas/salidas, inmutabilidad y prevención de ciclos.\n• Panel Inteligente: Control granular de atributos y personalización independiente por pieza."
+  "changelog": "Novedades en HabiApp v1.2.5\n\n• Herramienta Dibujar Pieza: Mayor ergonomía, guías vectoriales de eje, previsualización de planos y deshacer atómico.\n• Colecciones de Módulos Inteligentes: Nueva interfaz de agrupación visual con tarjetas apiladas y vista detallada.\n• Detección de Huecos: Nuevo reconocimiento por nivel de profundidad que discrimina compartimentos funcionales de fachadas.\n• Mejora Visual en Huecos: Menú contextual rediseñado con posicionamiento adaptativo y cotas en vivo.\n• Modificación de Pieza Individual: Corrección en el control de propiedades con modo libre, offset y conversión de unidades."
 }
