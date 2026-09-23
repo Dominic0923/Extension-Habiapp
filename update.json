@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp.rbz",
-  "changelog": "Novedades en HabiApp v1.2.5\n\n• Herramienta Dibujar Pieza: Mayor ergonomía, guías vectoriales de eje, previsualización de planos y deshacer atómico.\n• Colecciones de Módulos Inteligentes: Nueva interfaz de agrupación visual con tarjetas apiladas y vista detallada.\n• Detección de Huecos: Nuevo reconocimiento por nivel de profundidad que discrimina compartimentos funcionales de fachadas.\n• Mejora Visual en Huecos: Menú contextual rediseñado con posicionamiento adaptativo y cotas en vivo.\n• Modificación de Pieza Individual: Corrección en el control de propiedades con modo libre, offset y conversión de unidades."
+  "changelog": "Novedades en HabiApp v1.2.6\n\n• Animación en Cadena y Múltiple: Movimiento fluido coordinado con inversión instantánea al hacer clic sin saltos visuales.\n• Escala Inteligente Optimizada: Nuevo cálculo matricial orientado, soporte de espejado negativo y cotas HUD en tiempo real.\n• Panel Inteligente: Pestaña dedicada para piezas, separando la parametrización del despiece del módulo.\n• Supresión Independiente de Piezas: Ocultación atómica y limpia de piezas sin romper el grafo paramétrico.\n• Modificación Granular de Piezas: Soporte para piezas en grupos y ajuste preciso en modo libre o relativo.\n• Internacionalización: Traducción dinámica de parámetros, opciones y despiece en módulos inteligentes."
 }
