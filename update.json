@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp.rbz",
-  "changelog": "Novedades en HabiApp v1.2.6\n\n• Animación en Cadena y Múltiple: Movimiento fluido coordinado con inversión instantánea al hacer clic sin saltos visuales.\n• Escala Inteligente Optimizada: Nuevo cálculo matricial orientado, soporte de espejado negativo y cotas HUD en tiempo real.\n• Panel Inteligente: Pestaña dedicada para piezas, separando la parametrización del despiece del módulo.\n• Supresión Independiente de Piezas: Ocultación atómica y limpia de piezas sin romper el grafo paramétrico.\n• Modificación Granular de Piezas: Soporte para piezas en grupos y ajuste preciso en modo libre o relativo.\n• Internacionalización: Traducción dinámica de parámetros, opciones y despiece en módulos inteligentes."
+  "changelog": "Novedades en HabiApp v1.2.7\n\n• Catálogo de Materiales: Marcas comerciales directas, soporte de co-branding múltiple y búsqueda en vivo.\n• Herramienta Pintar y Cantos: Modos de pintado (Todo, Sin cantos, Solo cantos), colores y espesores configurables con descuento automático.\n• Configuración de Cantos: Nueva interfaz moderna y minimalista con previsualización de color en tiempo real.\n• Nuevos Idiomas: Soporte completo para Francés, Italiano y Portugués en toda la interfaz, herramientas y HUDs en viewport."
 }
