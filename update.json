@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
+  "version": "1.3.0",
   "url": "https://github.com/Dominic0923/Extension-Habiapp/releases/latest/download/Habiapp.rbz",
-  "changelog": "Novedades en HabiApp v1.2.7\n\n• Catálogo de Materiales: Marcas comerciales directas, soporte de co-branding múltiple y búsqueda en vivo.\n• Herramienta Pintar y Cantos: Modos de pintado (Todo, Sin cantos, Solo cantos), colores y espesores configurables con descuento automático.\n• Configuración de Cantos: Nueva interfaz moderna y minimalista con previsualización de color en tiempo real.\n• Nuevos Idiomas: Soporte completo para Francés, Italiano y Portugués en toda la interfaz, herramientas y HUDs en viewport."
+  "changelog": "Novedades en HabiApp v1.3.0\n\n• HabiRender Studio: Renderizado físico local por trazado de rayos (Path Tracing) + fotorrealismo asistido por IA.\n• Editor de Render: Estudio integral de materiales, iluminación ambiental, ópticas de cámara y previsualización 3D en tiempo real.\n• Modificador de Patrones: Generación procedural de tramas paramétricas (apilado, espiga, hexágonos) con relieve y texturas PBR.\n• Materiales PBR en Calidad 2K: Catálogo renovado con propiedades físicas reales, mapas normales y rugosidad en ultra alta definición.\n• Herramienta de Escala Inteligente: Transformación múltiple simultánea con acople exacto y preservación de inteligencia paramétrica."
 }
